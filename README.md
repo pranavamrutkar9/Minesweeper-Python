@@ -19,8 +19,9 @@ Welcome to the classic **Minesweeper** game, reimagined for the command-line! Th
 ## 💥 **Example** 💥
 
 Here’s an example of how the game board might look: 
-
-<img src="./screenshot1.png" alt="Minesweeper Game Screenshot" width="400" height="auto"> <img src="./screenshot2.png" alt="Minesweeper Game Screenshot" width="400" height="auto">
+<p align="center">
+   <img src="./screenshot1.png" alt="Minesweeper Game Screenshot" width="400" height="auto"> <img src="./screenshot2.png" alt="Minesweeper Game Screenshot" width="400" height="auto">
+</p>
 
 - `*` represents a **mine**. 💣  
 - A number like `1`, `2`, or `3` means **that many mines** are adjacent to that cell. 😱  
