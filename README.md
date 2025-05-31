@@ -2,7 +2,7 @@
 
 ## Overview 🕹️
 
-Welcome to the classic **Minesweeper** game, reimagined for the command-line! The goal is simple: **Uncover safe cells** without triggering any mines. But beware… one wrong move and BOOM 💥! Can you survive? Only time will tell! ⏳
+Welcome to the classic **Minesweeper** game, reimagined for the command-line! The goal is simple: **Uncover safe cells** without triggering any mines. But beware… one wrong move and BOOM 💥!
 
 ---
 
